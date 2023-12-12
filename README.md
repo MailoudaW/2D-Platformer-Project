@@ -12,6 +12,7 @@ Built with Godot 4.1
 ## References
 Jason Francis
 Kenney Assets
+I based myself on the exercises videos to make this game.
 ## Future Development
 
 ## Created by
