@@ -1,7 +1,7 @@
 # 2D-Platformer
 Project 4 for MSCH-C220
 
-The beginingd of a 2D platformer
+The begining of a 2D platformer
 
 ## Implementation
 
